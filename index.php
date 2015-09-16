@@ -1,5 +1,20 @@
-<php
+<?php
 
-/*  This is my first file */
+$hello = new HelloWorld();
+$hello->hello();
 
-echo "Hello PHP";
+/**  This is my first file */
+class HelloWorld
+{
+
+	function __construct()
+	{
+		
+	}
+
+	function hello()
+	{
+		echo "Hello to you too!";
+	}
+
+}
