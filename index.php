@@ -52,4 +52,9 @@ class HelloWorld
 		
 	}
 
+	function confirm_comments()
+	{
+		echo "comments are working now";
+	}
+
 }
