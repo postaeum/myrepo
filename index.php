@@ -3,11 +3,18 @@
 $hello = new HelloWorld();
 $hello->hello();
 
+$hello->create_tab();
+
 /**  This is my first file */
 class HelloWorld
 {
 
 	function __construct()
+	{
+		
+	}
+
+	function create_tab()
 	{
 		
 	}
