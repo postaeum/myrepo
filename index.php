@@ -72,7 +72,7 @@ class HelloWorld
 	}
 
 	/**
-	 * 
+	 * Test
 	 */
 	function resolve()
 	{
