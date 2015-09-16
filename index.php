@@ -76,7 +76,7 @@ class HelloWorld
 	 */
 	function resolve()
 	{
-		// Resolve
+		// Resolve not working.
 	}
 
 }
