@@ -36,7 +36,8 @@ class HelloWorld
 
 	function close_console()
 	{
-		
+		/* The commit didn't changed issue status nor added a comment. 
+		 * I have to try again. */
 	}
 
 }
