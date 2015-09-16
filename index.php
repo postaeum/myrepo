@@ -17,4 +17,13 @@ class HelloWorld
 		echo "Hello to you too!";
 	}
 
+	/**
+	 * Create account for corvin.
+	 * @param type $username
+	 */
+	function create_account($username = "default")
+	{
+		echo "created account for $username";
+	}
+
 }
