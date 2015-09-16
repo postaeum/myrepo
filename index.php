@@ -55,6 +55,7 @@ class HelloWorld
 	function confirm_comments()
 	{
 		echo "comments are working now";
+		/* But #close not working. Maybe I should add taks id? */
 	}
 
 }
