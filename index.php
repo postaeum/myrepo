@@ -34,4 +34,9 @@ class HelloWorld
 		
 	}
 
+	function close_console()
+	{
+		
+	}
+
 }
