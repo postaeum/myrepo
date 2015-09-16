@@ -26,4 +26,12 @@ class HelloWorld
 		echo "created account for $username";
 	}
 
+	/**
+	 * Related to issue MFP-8 Administration console.
+	 */
+	function create_console()
+	{
+		
+	}
+
 }
