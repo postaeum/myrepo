@@ -44,4 +44,12 @@ class HelloWorld
 		echo "console";
 	}
 
+	/**
+	 * Change email address so JIRA can see commands in commit
+	 */
+	function change_email()
+	{
+		
+	}
+
 }
