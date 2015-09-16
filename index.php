@@ -68,6 +68,7 @@ class HelloWorld
 	function done()
 	{
 		/* Figured out how to close an issue. */
+		/* But can't set resolution? */
 	}
 
 }
