@@ -65,4 +65,9 @@ class HelloWorld
 		/* But #close not working. Maybe I should add taks id? */
 	}
 
+	function done()
+	{
+		/* Figured out how to close an issue. */
+	}
+
 }
