@@ -34,6 +34,9 @@ class HelloWorld
 		
 	}
 
+	/**
+	 * Added function comment.
+	 */
 	function close_console()
 	{
 		/* The commit didn't changed issue status nor added a comment. 
