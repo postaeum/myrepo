@@ -71,4 +71,9 @@ class HelloWorld
 		/* But can't set resolution? */
 	}
 
+	function resolve()
+	{
+		
+	}
+
 }
