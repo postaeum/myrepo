@@ -41,6 +41,7 @@ class HelloWorld
 	{
 		/* The commit didn't changed issue status nor added a comment. 
 		 * I have to try again. Still not workin. */
+		echo "console";
 	}
 
 }
