@@ -81,4 +81,8 @@ class HelloWorld
 		// Done.
 	}
 
+	function test(){
+		// Does nothing.
+	}
+
 }
