@@ -86,4 +86,8 @@ class HelloWorld
 		// Does nothing.
 	}
 
+	function create_git_conflict(){
+		echo "Hello World";
+	}
+
 }
