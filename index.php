@@ -21,7 +21,8 @@ class HelloWorld
 
 	function hello()
 	{
-		echo "Hello to you too!";
+		die(__METHOD__);
+		// something is bad here.
 	}
 
 	/**
