@@ -87,7 +87,7 @@ class HelloWorld
 	}
 
 	function create_git_conflict(){
-		echo "Hello World";
+		echo \"Hello World\";
 	}
 
 }
