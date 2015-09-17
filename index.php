@@ -84,10 +84,10 @@ class HelloWorld
 
 	function test(){
 		// Does nothing.
-	}
-
-	function create_git_conflict(){
-		echo \"Hello World\";
+		$var = 1;
+		$var = 2;
+		$string = "HelloWorld";
+		echo $var . $string;
 	}
 
 }
